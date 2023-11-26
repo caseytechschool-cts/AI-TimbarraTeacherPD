@@ -1,52 +1,149 @@
 # Artificial Intelligence
 
-Artificial intelligence (AI) refers to computer systems capable of performing complex tasks that historically only a human could do, such as reasoning, making decisions, or solving problems. 
+Artificial intelligence (AI) refers to computer systems capable of performing complex tasks that historically only a human could do, such as reasoning, making decisions, or solving problems.
+
+The concept of AI first emerged in the 1950s, but ideas about intelligent machines date back much further in human history, with mechanical automatons and imagined humanoid robots appearing in ancient myths and fiction. 
+
+The modern field of AI was largely sparked by Alan Turing's 1950 paper "Computing Machinery and Intelligence". In it, he poses the pivotal question: "Can machines think?" To evaluate whether machines can exhibit intelligent behavior, he devised the now famous Turing Test.
 
 ![Turing test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
 
+While no AI has fully passed the complex Turing Test yet, systems have come close recently. Thanks to rapid advances in the field over the past 20 years, AI and machine learning now power many everyday technologies and tools that would have seemed like science fiction just a decade ago.
 
-However, decades before the current definition, the birth of artificial intelligence conversation was marked by Alan Turing's groundbreaking work, ["Computing Machinery and Intelligence"](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf), published in 1950. In this paper, Turing, often referred to as the "father of computer science", poses a question: "Can machines think?" He then proposes a test, now famously known as the "Turing Test". This test involves an interrogator attempting to differentiate between a human and a machine's text response. Although this test has faced much criticism since its publication, it remains an essential part of AI history and continues to be a topic within philosophy due to its focus on linguistics.
-
-Today, more than 70 years after Turing’s proposal, no AI has managed to successfully pass the test by fulfilling the specific conditions he outlined. Nonetheless, as some headlines reflect, a few systems have come quite close. You can read more about it in this [article](https://theconversation.com/ai-is-closer-than-ever-to-passing-the-turing-test-for-intelligence-what-happens-when-it-does-214721).
-
-# History of AI
+## A Brief History of AI
 
 ![Alt text](image.png)
 
-Although the modern AI has started at 1950s, it is the last twenty years, we see a lot of improvements and products as a consumer. Here are a few big milestone of AI in last twenty years.
+### Pre-Computer AI Concepts 
 
-**2001**: Machine learning helps Google Search users correct their spelling.
+Ideas about developing artificial beings with intelligence date back many centuries. Notable examples include:
 
+- **1200s**: Accounts of mechanical automatons able to sing, play instruments, or perform other lifelike actions. 
+- **1818**: Mary Shelley's Frankenstein explores the idea of artificially created life.
+- **1950s**: As computing advanced, scientists start formally studying how to achieve artificial intelligence.
+
+### Founding of AI as a Discipline
+
+Key events in establishing AI as a scientific discipline include:
+
+- **1950s**: Term "artificial intelligence" coined; Neural network concepts developed.   
+- **1956**: First academic AI conference held at Dartmouth College.
+- **1997**: IBM's Deep Blue defeats world chess champion, demonstrating AI progress.   
+
+### AI Winter and Resurgence   
+
+- **1974-1980s**: Disappointing early progress led to reduced funding and interest, known as the "AI winter".    
+- **1980s**: Expert systems and knowledge bases created for more specialized AI applications.   
+- **1990s**: Machine learning techniques helped AI progress beyond rule-based systems.
+- **1997**: Deep Blue's chess victory regains interest in general AI goals.
+
+### AI Revolution Powered by Machine Learning
+
+Rapid advancement of AI since 2000 is largely driven by machine learning and deep neural networks, enabled by growth in data and computing power.
+
+- **2001**: Machine learning helps Google Search users correct their spelling.
 ![Google search spell correct](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gobbledygook.gif)
+- **2011**: IBM Watson's Jeopardy! win highlights improvements in natural language processing. 
+- **2016**: AlphaGo program becomes first to defeat top human professional player in complex game of Go.
+- **2019**: Natural language understanding helps Google to search better.
+ ![Alt text](image-1.png)
+- **2020**: Protein-folding algorithms and large language models take major leaps forward.
+- **2020**: OpenAI introduces GPT-3 model.
+- **2022**: OpenAI launches ChatGPT.
+- **2023**: Google launches Google BARD.
 
-**2006**: Google Translate launches
+The pace of AI capabilities continues to accelerate.
 
-**2010**: Microsoft launched Kinect for Xbox 360 with the award-wining machine learning model for human motion capture.
+## Current and Future Applications
 
-**2011**: IBM's Watson computer defeated television game show Jeopardy!
+AI and machine learning are now embedded in many common consumer products and services:
 
-**2011-2014**: Voice assistant from Apple (Siri), Google (Google Now) and Microsoft (Cortana) were released.
+- Smartphone assistants like Siri, Alexa and Google Assistant
+- Image recognition and organisation in apps like Google Photos  
+- Predictive text typing suggestions  
+- Recommender systems providing personalised suggestions
+- Self-driving and driver assistance car technologies
+- Disease risk screening and medical diagnosis support 
 
-**2015**: Google released Tensorflow, an open-sourced AI and machine learning platform.
+In the coming decades, AI could replicate more complex creative and contextual human skills previously thought impossible:
 
-**2015**: OpenAI was founded.
+- Natural conversational ability 
+- Producing original art, music, literature  
+- Advanced strategic planning and decision making  
+- High-level physical dexterity and movement 
 
-**2016**: AlphaGo defeats world champion Go player.
+Ethical considerations around data, bias, transparency, and impact on jobs and society will be crucial in guiding the continued advancement of AI technologies.
 
-**2016**: Pytorch was released. An AI and machine learning development platform.
 
-**2017**: Google Research introduces the Transformer model architecture. This model revolutionises natural language processing (NLP) applications and the foundation of today's large language models (llm).
+# Machine Learning and AI Models
 
-**2019**: Natural language understanding helps Google to search better.
+There are three main types of machine learning models:
 
-![Alt text](image-1.png)
-**2020**: AlphaFold solves the protein-folding problem.
+## Supervised Learning
 
-**2020**: OpenAI introduces GPT-3 model.
+In supervised learning, models are trained on labelled datasets that contain inputs and desired outputs. For example:
 
-**2022**: OpenAI launches ChatGPT.
+- Image classification models are trained on images labelled with the object classes they depict (e.g. apples and bananas). Given new images, the models can predict these labels.
 
-**2023**: Google launches Google BARD.
+![supervised model](https://neurospace.io/blog/2020/08/what-is-supervised-learning/images/what-is-supervised-learning.png)
+
+
+Supervised learning requires collecting and labelling large training datasets, which can be expensive and time-consuming. However, performance is often strong after sufficient training data is provided.
+
+## Unsupervised Learning 
+
+Unsupervised learning models analyse unlabelled input data to find patterns and structure. Some examples include:
+
+- Clustering algorithms group data points (e.g., apples, pears and strawberries) based on detected similarities. This can reveal categories within datasets.
+
+![Alt text](image-2.png)
+
+- Anomaly detection identifies outliers that are significantly different from the norm. 
+
+- Association rule learning finds interesting relationships between variables.
+
+Unsupervised learning derives insights directly from data distributions without needing labelling, reducing data demands. But performance metrics can be harder to define.
+
+## Reinforcement Learning
+
+In reinforcement learning agents interact dynamically with environments, receiving rewards or penalties for actions to learn behaviours that maximise cumulative reward. For instance:
+
+- Robot dogs taught to walk properly through trial-and-error reinforcement of stable gaits.
+
+    ![Alt text](image-3.png)
+
+- Game-playing algorithms that learn winning strategies based on scores.
+
+Reinforcement learning enables very responsive adaptation but requires carefully engineering reward functions.
+
+These three model types are integral to machine learning, with a vast array of models designed for diverse tasks. While exploring various models is beyond this text's scope, the focus here is on a unique machine learning architecture: neural networks.
+
+## Neural Networks
+A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognize patterns and features in data.
+
+![Alt text](image-4.png)
+
+At a very basic level, they consist of the following components:
+
+**Inputs**
+- Data such as images, text or sound samples get fed into the model
+- Each input gets assigned to one of the initial **nodes**
+
+**Nodes**
+- Also called neurons or units
+- Organised in layers - usually an input layer, one or more hidden layers, and an   output layer
+- Each node assigns a weight to its input, performs a calculation on it and passes the value to connected nodes
+- Think of a node receiving multiple inputs, assessing their importance, and communicating its assessment to other neurons deeper in the network
+
+**Connections**
+- Direct connections between the output of nodes in one layer to the input of nodes in the next layer
+- Enable information and weighted values to be passed along for further processing steps
+
+**Outputs**
+- The end result showing what the neural network has predicted based on all the calculations stepped through each layer of connections
+- Output could be a classification, a prediction, recommendation or other inferred pattern in the data
+
+The strengths of connections between nodes and the node weight values are optimized during model training to improve accuracy on sample data. The trained model can then be applied to new unseen data.
 
 
 
@@ -56,3 +153,6 @@ Although the modern AI has started at 1950s, it is the last twenty years, we see
 - What Is Artificial Intelligence? Definition, Uses, and Types. Click [here](https://www.coursera.org/articles/what-is-artificial-intelligence) to access it. (Accessed: 23rd Nov 2023)
 - AI is closer than ever to passing the Turing test for ‘intelligence’. What happens when it does? Click [here](https://theconversation.com/ai-is-closer-than-ever-to-passing-the-turing-test-for-intelligence-what-happens-when-it-does-214721) to access it. (Accessed: 23rd Nov 2023)
 - History of Artificial Intelligence. Click [here](https://qbi.uq.edu.au/brain/intelligent-machines/history-artificial-intelligence) to access. (Accessed: 23rd Nov 2023)
+- Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 49, 433-460. https://doi.org/10.1093/mind/LIX.236.433  
+
+- McCorduck, P. (2004). Machines Who Think (2nd ed.). Natick, MA: A. K. Peters, Ltd.
