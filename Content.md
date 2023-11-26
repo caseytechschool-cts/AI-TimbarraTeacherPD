@@ -145,7 +145,22 @@ At a very basic level, they consist of the following components:
 
 The strengths of connections between nodes and the node weight values are optimized during model training to improve accuracy on sample data. The trained model can then be applied to new unseen data.
 
+Various neural network types cater to specific tasks, such as vision, numerical processing, and language understanding. In this context, we will provide a brief overview of a large language model (LLM).
 
+### Large Language Model (LLM)
+Large language models are a type of AI system that are trained on massive amounts of text data to predict probable next words when given a few words to start with. For example, if you type "The car drove into the..." the model will generate plausible continuations like "drive way" or "parking lot". 
+
+![Alt text](image-5.png)
+
+These models consist of billions of interlinked neural network parameters optimized through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
+
+#### Popular LLMs
+There are proprietary and open-sourced LLMs. Here is a list of popular one.
+
+1. ChatGPT (https://chat.openai.com/)
+2. Google Bard (https://bard.google.com/chat)
+3. Claude AI (https://claude.ai/chat/)
+4. LLAMA2 (https://ai.meta.com/llama/)
 
 # References
 
