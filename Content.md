@@ -6,13 +6,16 @@ The concept of AI first emerged in the 1950s, but ideas about intelligent machin
 
 The modern field of AI was largely sparked by Alan Turing's 1950 paper "Computing Machinery and Intelligence". In it, he poses the pivotal question: "Can machines think?" To evaluate whether machines can exhibit intelligent behavior, he devised the now famous Turing Test.
 
-![Turing test](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png" alt="Turing test" />
+</p>
 
 While no AI has fully passed the complex Turing Test yet, systems have come close recently. Thanks to rapid advances in the field over the past 20 years, AI and machine learning now power many everyday technologies and tools that would have seemed like science fiction just a decade ago.
 
 ## A Brief History of AI
-
-![Alt text](https://i.postimg.cc/fT64H2mH/image.png)
+<p align="center">
+  <img src="https://i.postimg.cc/fT64H2mH/image.png" alt="brief history of AI" />
+</p>
 
 ### Pre-Computer AI Concepts 
 
@@ -42,7 +45,9 @@ Key events in establishing AI as a scientific discipline include:
 Rapid advancement of AI since 2000 is largely driven by machine learning and deep neural networks, enabled by growth in data and computing power.
 
 - **2001**: Machine learning helps Google Search users correct their spelling.
-![Google search spell correct](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gobbledygook.gif)
+<p align="center">
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gobbledygook.gif" alt="Google search spell correct" />
+</p>
 - **2011**: IBM Watson's Jeopardy! win highlights improvements in natural language processing. 
 - **2016**: AlphaGo program becomes first to defeat top human professional player in complex game of Go.
 - **2019**: Natural language understanding helps Google to search better.
