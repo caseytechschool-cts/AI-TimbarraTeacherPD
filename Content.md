@@ -12,12 +12,12 @@ The modern field of AI was largely sparked by Alan Turing's 1950 paper "Computin
 
 While no AI has fully passed the complex Turing Test yet, systems have come close recently. Thanks to rapid advances in the field over the past 20 years, AI and machine learning now power many everyday technologies and tools that would have seemed like science fiction just a decade ago.
 
-## A Brief History of AI
+## A Brief history of AI
 <p align="center">
   <img src="https://i.postimg.cc/fT64H2mH/image.png" alt="brief history of AI" />
 </p>
 
-### Pre-Computer AI Concepts 
+### Pre-computer AI concepts 
 
 Ideas about developing artificial beings with intelligence date back many centuries. Notable examples include:
 
@@ -25,7 +25,7 @@ Ideas about developing artificial beings with intelligence date back many centur
 - **1818**: Mary Shelley's Frankenstein explores the idea of artificially created life.
 - **1950s**: As computing advanced, scientists start formally studying how to achieve artificial intelligence.
 
-### Founding of AI as a Discipline
+### Founding of AI as a discipline
 
 Key events in establishing AI as a scientific discipline include:
 
@@ -33,14 +33,14 @@ Key events in establishing AI as a scientific discipline include:
 - **1956**: First academic AI conference held at Dartmouth College.
 - **1997**: IBM's Deep Blue defeats world chess champion, demonstrating AI progress.   
 
-### AI Winter and Resurgence   
+### AI winter and resurgence   
 
 - **1974-1980s**: Disappointing early progress led to reduced funding and interest, known as the "AI winter".    
 - **1980s**: Expert systems and knowledge bases created for more specialised AI applications.   
 - **1990s**: Machine learning techniques helped AI progress beyond rule-based systems.
 - **1997**: Deep Blue's chess victory regains interest in general AI goals.
 
-### AI Revolution Powered by Machine Learning
+### AI revolution powered by machine learning
 
 Rapid advancement of AI since 2000 is largely driven by machine learning and deep neural networks, enabled by growth in data and computing power.
 
@@ -61,7 +61,7 @@ Rapid advancement of AI since 2000 is largely driven by machine learning and dee
 
 The pace of AI capabilities continues to accelerate.
 
-## Pioneers of Modern AI
+## Pioneers of modern AI
 A diverse community of researchers and innovators has driven the rapid progress of artificial intelligence over the past few decades. Key breakthroughs trace back to the groundbreaking work of several brilliant minds who dedicated their careers to unlocking the possibilities of AI.
 
 This section highlights five individuals who have been integral in propelling multiple waves of AI advancement from developing foundational machine learning concepts to realising transformational applications:
@@ -101,7 +101,7 @@ Geoffrey Hinton is the neural network innovator who helped ignite machine learni
 
 Fei-Fei Li is the instrumental figure in large-scale image datasets, AI ethics and education. Leads Stanford HAI bridging AI and humanities.
 
-## Current and Future Applications
+## Current and future applications
 
 AI and machine learning are now embedded in many common consumer products and services:
 
@@ -126,7 +126,7 @@ Ethical considerations around data, bias, transparency, and impact on jobs and s
 
 There are three main types of machine learning models:
 
-## Supervised Learning
+## Supervised learning
 
 In supervised learning, models are trained on labelled datasets that contain inputs and desired outputs. For example:
 
@@ -138,7 +138,7 @@ In supervised learning, models are trained on labelled datasets that contain inp
 
 Supervised learning requires collecting and labelling large training datasets, which can be expensive and time-consuming. However, performance is often strong after sufficient training data is provided.
 
-## Unsupervised Learning 
+## Unsupervised learning 
 
 Unsupervised learning models analyse unlabelled input data to find patterns and structure. Some examples include:
 
@@ -154,7 +154,7 @@ Unsupervised learning models analyse unlabelled input data to find patterns and 
 
 Unsupervised learning derives insights directly from data distributions without needing labelling, reducing data demands. But performance metrics can be harder to define.
 
-## Reinforcement Learning
+## Reinforcement learning
 
 In reinforcement learning, agents interact dynamically with environments, receiving rewards or penalties for actions to learn behaviours that maximise cumulative reward. For instance:
 
@@ -169,7 +169,7 @@ Reinforcement learning enables very responsive adaptation but requires carefully
 
 These three model types are integral to machine learning, with a vast array of models designed for diverse tasks. While exploring various models is beyond this text's scope, the focus here is on a unique machine learning architecture: neural networks.
 
-## Neural Networks
+## Neural networks
 A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognise patterns and features in data.
 
 <p align="center">
@@ -200,7 +200,7 @@ The strengths of connections between nodes and the node weight values are optimi
 
 Various neural network types cater to specific tasks, such as vision, numerical processing, and language understanding. In this context, we will provide a brief overview of a large language model (LLM).
 
-### Large Language Model (LLM)
+### Large language model (LLM)
 Large language models are a type of AI system that are trained on massive amounts of text data to predict probable next words when given a few words to start with. For example, if you type "The car drove into the..." the model will generate plausible continuations like "drive way" or "parking lot". 
 
 <p align="center">
@@ -209,7 +209,7 @@ Large language models are a type of AI system that are trained on massive amount
 
 These models consist of billions of interlinked neural network parameters optimised through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
 
-#### Popular LLMs
+#### Popular llms
 There are proprietary and open-sourced LLMs. Here is a list of popular one:
 
 1. ChatGPT (https://chat.openai.com/)
@@ -227,7 +227,7 @@ Teachable Machine is a free, easy-to-use web-based tool from Google for building
 - Account needed: No
 - Platform: Fully broswer-based
 
-### Activity: Classifying Happy and Sad Faces
+### Activity: Classifying happy and sad faces
 This activity guides students through using Teachable Machine to create a two-class image classification model for detecting happy and sad facial expressions.
 
 **Steps:**
@@ -278,7 +278,7 @@ Groups will be provided example user profiles to inspire ideas. Students will us
 4. Iteratively improve and structure content in PowerPoint or Google Slides
 5. Construct at least one full chapter
 
-**Sample User Prompt**
+**Sample user prompt**
 > Within your team, use Google BARD and PlaygroundAI to create a personalised children's book for your assigned user profile. Apply creativity in directing the AI and designing an engaging storyline. Construct at least one full chapter structured in PowerPoint.
 
 For Playground AI instructions, see:
@@ -289,6 +289,28 @@ For Playground AI instructions, see:
 - AI content filtering and improvement
 - Creative direction of AI output
 
+## AI impact and critical thinking activity
+If you want to bring ethical side and the social impacts of AI in your classroom, here are some sample questions to brainstrom.
+
+### Activity: AI impact brainstrom
+1. Have students brainstorm current or future AI applications in 3 categories: transportation, medicine, entertainment. Examples: self-driving cars, robotic surgery tools, movie recommendation algorithms.
+2. For each category, split into small groups to analyse positive and negative potential societal impacts. Consider things like jobs, access, privacy.
+3. Groups present out analyses. Discuss tradeoffs identified and possible solutions.
+
+### Activity: critical thinking questions
+**Transportation:**
+- How might self-driving vehicle AI impact jobs like truck driving, taxis, public transit? Are job losses inevitable or preventable?
+- Could AI transportation developments restrict mobility for groups like the elderly or disabled? How could they be designed inclusively?
+
+**Medicine:**
+- AI systems ingest huge amounts of patient health data. How does this impact privacy? Should anonymisation happen?
+- If an AI diagnosis system makes an error, who should be liable? The developer, hospital, or someone else?
+
+**Entertainment:**
+- If AI generated songs or films become indistinguishable from human-made, will it diminish human creativity? Or enhance it?
+- Should algorithms recommending news, movies, or products be transparent how they profile and target users? Why or why not?
+
+These sample questions aim to get students investigating nuanced AI impact dilemmas through different lenses while thinking critically.
 
 # References
 
