@@ -46,13 +46,53 @@ Rapid advancement of AI since 2000 is largely driven by machine learning and dee
 - **2011**: IBM Watson's Jeopardy! win highlights improvements in natural language processing. 
 - **2016**: AlphaGo program becomes first to defeat top human professional player in complex game of Go.
 - **2019**: Natural language understanding helps Google to search better.
- ![Alt text](https://i.postimg.cc/B8ymk76W/image-1.png)
+     ![Alt text](https://i.postimg.cc/HxWFJf1L/image-1.png)
 - **2020**: Protein-folding algorithms and large language models take major leaps forward.
 - **2020**: OpenAI introduces GPT-3 model.
 - **2022**: OpenAI launches ChatGPT.
 - **2023**: Google launches Google BARD.
 
 The pace of AI capabilities continues to accelerate.
+
+## Pioneers of Modern AI
+A diverse community of researchers and innovators has driven the rapid progress of artificial intelligence over the past few decades. Key breakthroughs trace back to the groundbreaking work of several brilliant minds who dedicated their careers to unlocking the possibilities of AI.
+
+This section highlights 5 individuals who have been integral in propelling multiple waves of AI advancement from developing foundational machine learning concepts to realizing transformational applications:
+
+<p align="center">
+  <img src="https://www.andrewng.org/static/c5eb39b8da664718384eefcbc915f5cd/25582/andrew-ng-homepage.webp" alt="Andrew Ng" width="200" height="200" /></br>
+  <a href="https://www.andrewng.org/">Andrew Ng</a>
+</p>
+
+Andrew Ng popularised and democratised machine learning through education initiatives. Prolific founder and leader spreading AI globally.
+
+<p align="center">
+  <img src="https://yoshuabengio.org/wp-content/uploads/2021/12/1.BENGIO_Yoshua_credit_Camille-Gladu-Drouin_dec2019-1-1-300x200.jpg" alt="Yoshua Bengio" width="200" height="200"/></br>
+  <a href="https://yoshuabengio.org/">Yoshua Bengio</a>
+</p>
+
+Yoshua Bengio is a pioneer of deep learning techniques that sparked the AI revolution. Continues pushing boundaries of AI safety and reasoning.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Yann_LeCun_-_2018_%28cropped%29.jpg/330px-Yann_LeCun_-_2018_%28cropped%29.jpg" alt="Yann LeCun" width="200" height="200"/></br>
+  <a href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>
+</p>
+
+Yann LeCun is the architect of pioneering CNNs powering modern computer vision. Drives Facebook (now Meta) AI research and REALM language models.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Geoffrey_Hinton_-_Collision_2023_-_Centre_Stage_RCZ_1307_%28cropped%29.jpg/330px-Geoffrey_Hinton_-_Collision_2023_-_Centre_Stage_RCZ_1307_%28cropped%29.jpg" alt="Geoffrey Hinton" width="200" height="200"/></br>
+  <a href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a>
+</p>
+
+Geoffrey Hinton is the neural network innovator who helped ignite machine learning mania through backpropagation and capsules.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fei-Fei_Li_at_AI_for_Good_2017.jpg/330px-Fei-Fei_Li_at_AI_for_Good_2017.jpg" alt="Fei-Fei Li" width="200" height="200"/></br>
+  <a href="https://en.wikipedia.org/wiki/Fei-Fei_Li">Fei-Fei Li</a>
+</p>
+
+Fei-Fei Li is the instrumental figure in large-scale image datasets, AI ethics and education. Leads Stanford HAI bridging AI and humanities.
 
 ## Current and Future Applications
 
