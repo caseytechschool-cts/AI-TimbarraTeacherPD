@@ -191,6 +191,17 @@ As of now, the original Scratch website (https://scratch.mit.edu/) does not supp
 This [PDF file](/Teachable%20Machine%20with%20Scratch.pdf) shows the detailed steps to achieve it.
 
 
+## Image classification with Landing AI
+Another traditional AI tool you can use in your classroom is Landing AI (https://landing.ai/). It is more capable then Teachable Machine in some respects. Here are some quick information about the tool.
+
+- Website link: [Landing AI](https://landing.ai/)
+- Account needed: Yes, you need to Sign Up to access
+- Free or subscription: You start with a free trial of one month. No credit card information is required.
+- Internet needed: Yes
+- Do I need to download anything: No, browser-based
+
+### Using Landing AI to create an image classifier
+Follow this [PDF file](/Landing%20AI.pdf) to train, predict and deploy your model on the cloud.
 
 # References
 
