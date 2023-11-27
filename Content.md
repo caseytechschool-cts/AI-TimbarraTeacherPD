@@ -45,13 +45,15 @@ Key events in establishing AI as a scientific discipline include:
 Rapid advancement of AI since 2000 is largely driven by machine learning and deep neural networks, enabled by growth in data and computing power.
 
 - **2001**: Machine learning helps Google Search users correct their spelling.
-<p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gobbledygook.gif" alt="Google search spell correct" />
-</p>
+    <p align="center">
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gobbledygook.gif" alt="Google search spell correct" />
+    </p>
 - **2011**: IBM Watson's Jeopardy! win highlights improvements in natural language processing. 
 - **2016**: AlphaGo program becomes first to defeat top human professional player in complex game of Go.
 - **2019**: Natural language understanding helps Google to search better.
-     ![Alt text](https://i.postimg.cc/HxWFJf1L/image-1.png)
+    <p align="center">
+    <img src="https://i.postimg.cc/HxWFJf1L/image-1.png" alt="language understanding" />
+    </p>
 - **2020**: Protein-folding algorithms and large language models take major leaps forward.
 - **2020**: OpenAI introduces GPT-3 model.
 - **2022**: OpenAI launches ChatGPT.
@@ -130,8 +132,9 @@ In supervised learning, models are trained on labelled datasets that contain inp
 
 - Image classification models are trained on images labelled with the object classes they depict (e.g. apples and bananas). Given new images, the models can predict these labels.
 
-![supervised model](https://neurospace.io/blog/2020/08/what-is-supervised-learning/images/what-is-supervised-learning.png)
-
+    <p align="center">
+    <img src="https://neurospace.io/blog/2020/08/what-is-supervised-learning/images/what-is-supervised-learning.png" alt="supervised model" />
+    </p>
 
 Supervised learning requires collecting and labelling large training datasets, which can be expensive and time-consuming. However, performance is often strong after sufficient training data is provided.
 
@@ -141,7 +144,9 @@ Unsupervised learning models analyse unlabelled input data to find patterns and 
 
 - Clustering algorithms group data points (e.g., apples, pears and strawberries) based on detected similarities. This can reveal categories within datasets.
 
-![Alt text](https://i.postimg.cc/YSzJCtVV/image-2.png)
+    <p align="center">
+    <img src="https://i.postimg.cc/YSzJCtVV/image-2.png" alt="unsupervised model" />
+    </p>
 
 - Anomaly detection identifies outliers that are significantly different from the norm. 
 
@@ -154,8 +159,9 @@ Unsupervised learning derives insights directly from data distributions without 
 In reinforcement learning agents interact dynamically with environments, receiving rewards or penalties for actions to learn behaviours that maximise cumulative reward. For instance:
 
 - Robot dogs taught to walk properly through trial-and-error reinforcement of stable gaits.
-
-    ![Alt text](https://i.postimg.cc/g0WCpxM8/image-3.png)
+    <p align="center">
+        <img src="https://i.postimg.cc/g0WCpxM8/image-3.png" alt="reinforement learning" />
+    </p>
 
 - Game-playing algorithms that learn winning strategies based on scores.
 
@@ -166,7 +172,9 @@ These three model types are integral to machine learning, with a vast array of m
 ## Neural Networks
 A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognize patterns and features in data.
 
-![Alt text](https://i.postimg.cc/V67pXDzW/image-4.png)
+<p align="center">
+  <img src="https://i.postimg.cc/V67pXDzW/image-4.png" alt="a simple neural network" />
+</p>
 
 At a very basic level, they consist of the following components:
 
@@ -195,7 +203,9 @@ Various neural network types cater to specific tasks, such as vision, numerical 
 ### Large Language Model (LLM)
 Large language models are a type of AI system that are trained on massive amounts of text data to predict probable next words when given a few words to start with. For example, if you type "The car drove into the..." the model will generate plausible continuations like "drive way" or "parking lot". 
 
-![Alt text](https://i.postimg.cc/Z53GX8LJ/image-5.png)
+<p align="center">
+  <img src="https://i.postimg.cc/Z53GX8LJ/image-5.png" alt="llm" />
+</p>
 
 These models consist of billions of interlinked neural network parameters optimized through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
 
