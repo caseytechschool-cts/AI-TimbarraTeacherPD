@@ -36,7 +36,7 @@ Key events in establishing AI as a scientific discipline include:
 ### AI Winter and Resurgence   
 
 - **1974-1980s**: Disappointing early progress led to reduced funding and interest, known as the "AI winter".    
-- **1980s**: Expert systems and knowledge bases created for more specialized AI applications.   
+- **1980s**: Expert systems and knowledge bases created for more specialised AI applications.   
 - **1990s**: Machine learning techniques helped AI progress beyond rule-based systems.
 - **1997**: Deep Blue's chess victory regains interest in general AI goals.
 
@@ -64,7 +64,7 @@ The pace of AI capabilities continues to accelerate.
 ## Pioneers of Modern AI
 A diverse community of researchers and innovators has driven the rapid progress of artificial intelligence over the past few decades. Key breakthroughs trace back to the groundbreaking work of several brilliant minds who dedicated their careers to unlocking the possibilities of AI.
 
-This section highlights 5 individuals who have been integral in propelling multiple waves of AI advancement from developing foundational machine learning concepts to realizing transformational applications:
+This section highlights five individuals who have been integral in propelling multiple waves of AI advancement from developing foundational machine learning concepts to realising transformational applications:
 
 <p align="center">
   <img src="https://www.andrewng.org/static/c5eb39b8da664718384eefcbc915f5cd/25582/andrew-ng-homepage.webp" alt="Andrew Ng" width="200" height="200" /></br>
@@ -148,7 +148,7 @@ Unsupervised learning models analyse unlabelled input data to find patterns and 
     <img src="https://i.postimg.cc/YSzJCtVV/image-2.png" alt="unsupervised model" />
     </p>
 
-- Anomaly detection identifies outliers that are significantly different from the norm. 
+- Identifies outliers that are significantly different from the norm. 
 
 - Association rule learning finds interesting relationships between variables.
 
@@ -156,7 +156,7 @@ Unsupervised learning derives insights directly from data distributions without 
 
 ## Reinforcement Learning
 
-In reinforcement learning agents interact dynamically with environments, receiving rewards or penalties for actions to learn behaviours that maximise cumulative reward. For instance:
+In reinforcement learning, agents interact dynamically with environments, receiving rewards or penalties for actions to learn behaviours that maximise cumulative reward. For instance:
 
 - Robot dogs taught to walk properly through trial-and-error reinforcement of stable gaits.
     <p align="center">
@@ -170,7 +170,7 @@ Reinforcement learning enables very responsive adaptation but requires carefully
 These three model types are integral to machine learning, with a vast array of models designed for diverse tasks. While exploring various models is beyond this text's scope, the focus here is on a unique machine learning architecture: neural networks.
 
 ## Neural Networks
-A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognize patterns and features in data.
+A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognise patterns and features in data.
 
 <p align="center">
   <img src="https://i.postimg.cc/V67pXDzW/image-4.png" alt="a simple neural network" />
@@ -196,7 +196,7 @@ At a very basic level, they consist of the following components:
 - The end result showing what the neural network has predicted based on all the calculations stepped through each layer of connections
 - Output could be a classification, a prediction, recommendation or other inferred pattern in the data
 
-The strengths of connections between nodes and the node weight values are optimized during model training to improve accuracy on sample data. The trained model can then be applied to new unseen data.
+The strengths of connections between nodes and the node weight values are optimised during model training to improve accuracy on sample data. The trained model can then be applied to new unseen data.
 
 Various neural network types cater to specific tasks, such as vision, numerical processing, and language understanding. In this context, we will provide a brief overview of a large language model (LLM).
 
@@ -207,10 +207,10 @@ Large language models are a type of AI system that are trained on massive amount
   <img src="https://i.postimg.cc/Z53GX8LJ/image-5.png" alt="llm" />
 </p>
 
-These models consist of billions of interlinked neural network parameters optimized through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
+These models consist of billions of interlinked neural network parameters optimised through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
 
 #### Popular LLMs
-There are proprietary and open-sourced LLMs. Here is a list of popular one.
+There are proprietary and open-sourced LLMs. Here is a list of popular one:
 
 1. ChatGPT (https://chat.openai.com/)
 2. Google Bard (https://bard.google.com/chat)
@@ -279,7 +279,7 @@ Groups will be provided example user profiles to inspire ideas. Students will us
 5. Construct at least one full chapter
 
 **Sample User Prompt**
-> Within your team, use Google BARD and PlaygroundAI to create a personalized children's book for your assigned user profile. Apply creativity in directing the AI and designing an engaging storyline. Construct at least one full chapter structured in PowerPoint.
+> Within your team, use Google BARD and PlaygroundAI to create a personalised children's book for your assigned user profile. Apply creativity in directing the AI and designing an engaging storyline. Construct at least one full chapter structured in PowerPoint.
 
 For Playground AI instructions, see:
 [Playground AI Guide](/AI_classroom_activities/HowtousePlaygroundAI.pdf)
