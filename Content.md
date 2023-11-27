@@ -163,83 +163,76 @@ There are proprietary and open-sourced LLMs. Here is a list of popular one.
 4. LLAMA2 (https://ai.meta.com/llama/)
 
 # AI Classroom Activities
-There are a number of activities you can run in your classroom by either using traditional AI or generative AI. 
-
-Here I am going to walk through two traditional AI activities and one generative AI activity. Form small groups to run these activities.
+There are a number of activities you can implement in your classroom using both traditional AI as well as generative AI. This section will walk through two traditional AI activities and one generative AI activity. Form small groups of students to run these activities.
 
 ## Image classification using Teachable Machine
+Teachable Machine is a free, easy-to-use web-based tool from Google for building basic image classification models without needing to code.
 
 - Website link: [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - Account needed: No
-- Free or subscription: Completely free
-- Internet needed: Yes
-- Do I need to download anything: No, browser-based
+- Platform: Fully broswer-based
 
-**Teachable Machine** is a Google initiative to introduce AI models easily into a classroom setup. Currently, the platform offers three types of models: image classification, sound classification and pose estimation.
+### Activity: Classifying Happy and Sad Faces
+This activity guides students through using Teachable Machine to create a two-class image classification model for detecting happy and sad facial expressions.
 
-### How to Teach a Machine to Recognize Happy and Sad Faces
-This [PDF file](/Teachable%20Machine.pdf) contains step-by-step guide on how to use Teachable Machine platform to create a two class models.
+**Steps:**
 
-Here are some learning outcomes for your students:
+- Collect a dataset of happy face photos and sad face photos using a webcam.
+- Label the photos in Teachable Machine.
+- Train a machine learning model on this dataset.
+- Evaluate model accuracy by testing the output of the model.
+- Use the model to predict if new facial images are happy or sad.
 
-1. Quality data collection
-2. Model training and evaluation
+**Key learning outcomes:**
+- Data collection and labelling
+- Training machine learning models
+- Model evaluation
 
-### How to use the model in Scratch platform
-As of now, the original Scratch website (https://scratch.mit.edu/) does not suppport Teachable Machine as an extension. However, there are some other versions of Scratch that you can use to use Teachable Machine. 
+For full activity instructions, see: [Teachable Machine Activity Guide](/Teachable%20Machine.pdf)
 
-This [PDF file](/Teachable%20Machine%20with%20Scratch.pdf) shows the detailed steps to achieve it.
-
+Students can also integrate their Teachable Machine model into Scratch coding projects for interactive apps. However, this currently has limited support on the main Scratch website. See [Teachable Machine with Scratch](/Teachable%20Machine%20with%20Scratch.pdf) activity guide for more details on how to use a different Scratch version to achieve it.
 
 ## Image classification with Landing AI
-Another traditional AI tool you can use in your classroom is Landing AI (https://landing.ai/). It is more capable then Teachable Machine in some respects. Here are some quick information about the tool.
+Landing AI is a more advanced platform for training custom visual AI models.
 
 - Website link: [Landing AI](https://landing.ai/)
-- Account needed: Yes, you need to Sign Up to access
-- Free or subscription: You start with a free trial of one month. No credit card information is required.
-- Internet needed: Yes
-- Do I need to download anything: No, browser-based
+- Account needed: Yes, free trial available
+- Platform: Browser-based
 
-### Using Landing AI to create an image classifier
-Follow this [PDF file](/Landing%20AI.pdf) to train, predict and deploy your model on the cloud.
+### Activity: Building an image classifier
+Follow the guide to take students through gathering images, labelling datasets, training models, and deploying models with Landing AI:
 
-Here are some learning outcomes for your students:
+[Landing AI Activity Guide](/Landing%20AI.pdf)
 
-1. Quality data collection
-2. Data labelling
-3. Model training and evaluation
-4. Model upload
+**Key learning outcomes:**
+1. Data collection and labelling
+2. Training machine learning models
+3. Model performance evaluation
+4. Model deployment
 
-## AI children book creation: intro to Generative AI
-This activity is designed to give your students a grip on the Generative AI (GenAI) which is the buzz word at this stage. The concept for this activty is simple: students in a small group will generate a children book by using different Generative AI tools. To make their learning concrete, you can provide them user profiles to choose from. This way, your students have some ground to start working on.
+## Generative AI children's book creation
+This activity introduces students to generative AI by having them use text and image generation models to create personalised children's books.
 
-To keep it simple, you can use an AI text generator and an AI image generator to create all the content. After inspecting the content, students can copy them into a PowerPoint slide or other media. 
+Groups will be provided example user profiles to inspire ideas. Students will use AI tools to source content while applying their own creativity to construct an original story.
 
-Here are the following tools you can use to achieve it.
+**Instructions**
 
-- Text generator: [Google BARD](https://bard.google.com/chat)
-- Image generator: [Playground AI](https://playgroundai.com/)
+1. Choose a user profile and brainstorm initial book ideas
+2. Map out core storyline, characters, and assets list
+3. Use AI tools (Google BARD and Playground AI) to generate text and images
+4. Iteratively improve and structure content in PowerPoint or Google Slides
+5. Construct at least one full chapter
 
-### Google BARD
-BARD was released earlier this year by Google. This is Google's response to ChatGPT. BARD is **free**, you need a Gmail account to access the platform.
+**Sample User Prompt**
+> Within your team, use Google BARD and PlaygroundAI to create a personalized children's book for your assigned user profile. Apply creativity in directing the AI and designing an engaging storyline. Construct at least one full chapter structured in PowerPoint.
 
-### PlaygroundAI
-PlaygroundAI is an image generation and editing tool which is based on Stable duffusion model. You need an account to access the platform. You can generate 500 images each day for free.
+For Playground AI instructions, see:
+[Playground AI Guide](/HowtousePlaygroundAI.pdf)
 
-Please check out this [PDF file](/HowtousePlaygroundAI.pdf) on how to use PlaygroundAI platform.
-
-### Children book activity
-You can use the following prompt to your students:
-
->Within your team, use the introduced AI tools (e.g., Google BARD and PlaygroundAI) to conduct research and create a children's book. Employ AI as your assistant and engage in extensive discussions to determine the storyline, diverse characters, and other details. Always remember, it is your creativity that ultimately gives the book its unique identity.
-
-- Students will work in a small group. Their first task will be finding the audience for their book. Ask students to choose one user profile (user profile.docx) and brainstrom some initial ideas around the profile.
-- Provide them butcher paper to jot down the storyline, leading characters, writing style and assest (e.g., images) list.
-- Your students now start using AI tools to generate the relevant resources. Emphasis them to create a chunk of the storeline at a time and iteratively make improvement.
-- Your students can use Google Slide or Microsoft PowerPoint to structure the content of the book.
-- Ask them to create at least one chapter of minimum 8 slides.
-- At the end, you can run a mini expo to share their creation.
-
+**Key learning outcomes:**
+- Generative AI capabilities
+- AI content filtering and improvement
+- Creative direction of AI output
 
 
 # References
