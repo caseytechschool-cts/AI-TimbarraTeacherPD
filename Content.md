@@ -12,7 +12,7 @@ While no AI has fully passed the complex Turing Test yet, systems have come clos
 
 ## A Brief History of AI
 
-![Alt text](image.png)
+![Alt text](https://i.postimg.cc/fT64H2mH/image.png)
 
 ### Pre-Computer AI Concepts 
 
@@ -46,7 +46,7 @@ Rapid advancement of AI since 2000 is largely driven by machine learning and dee
 - **2011**: IBM Watson's Jeopardy! win highlights improvements in natural language processing. 
 - **2016**: AlphaGo program becomes first to defeat top human professional player in complex game of Go.
 - **2019**: Natural language understanding helps Google to search better.
- ![Alt text](image-1.png)
+ ![Alt text](https://i.postimg.cc/B8ymk76W/image-1.png)
 - **2020**: Protein-folding algorithms and large language models take major leaps forward.
 - **2020**: OpenAI introduces GPT-3 model.
 - **2022**: OpenAI launches ChatGPT.
@@ -96,7 +96,7 @@ Unsupervised learning models analyse unlabelled input data to find patterns and 
 
 - Clustering algorithms group data points (e.g., apples, pears and strawberries) based on detected similarities. This can reveal categories within datasets.
 
-![Alt text](image-2.png)
+![Alt text](https://i.postimg.cc/YSzJCtVV/image-2.png)
 
 - Anomaly detection identifies outliers that are significantly different from the norm. 
 
@@ -110,7 +110,7 @@ In reinforcement learning agents interact dynamically with environments, receivi
 
 - Robot dogs taught to walk properly through trial-and-error reinforcement of stable gaits.
 
-    ![Alt text](image-3.png)
+    ![Alt text](https://i.postimg.cc/g0WCpxM8/image-3.png)
 
 - Game-playing algorithms that learn winning strategies based on scores.
 
@@ -121,7 +121,7 @@ These three model types are integral to machine learning, with a vast array of m
 ## Neural Networks
 A neural network is a type of machine learning model loosely inspired by biological neural networks in the human brain. They are designed to recognize patterns and features in data.
 
-![Alt text](image-4.png)
+![Alt text](https://i.postimg.cc/V67pXDzW/image-4.png)
 
 At a very basic level, they consist of the following components:
 
@@ -150,7 +150,7 @@ Various neural network types cater to specific tasks, such as vision, numerical 
 ### Large Language Model (LLM)
 Large language models are a type of AI system that are trained on massive amounts of text data to predict probable next words when given a few words to start with. For example, if you type "The car drove into the..." the model will generate plausible continuations like "drive way" or "parking lot". 
 
-![Alt text](image-5.png)
+![Alt text](https://i.postimg.cc/Z53GX8LJ/image-5.png)
 
 These models consist of billions of interlinked neural network parameters optimized through exposure to diverse examples of text structures. Thanks to their huge scale and smart architectures capturing complex language patterns, they can now write surprisingly human-like text given a prompt, power new applications like chatbots, and even reason about concepts they were never explicitly trained on. While impressive, they do have limitations in fully understanding context or factual knowledge without further progress. But large language models represent a major recent advance in AI's ability to not just process but dynamically generate natural language.
 
@@ -188,9 +188,9 @@ This activity guides students through using Teachable Machine to create a two-cl
 - Training machine learning models
 - Model evaluation
 
-For full activity instructions, see: [Teachable Machine Activity Guide](/Teachable%20Machine.pdf)
+For full activity instructions, see: [Teachable Machine Activity Guide](/AI_classroom_activities/TeachableMachine.pdf)
 
-Students can also integrate their Teachable Machine model into Scratch coding projects for interactive apps. However, this currently has limited support on the main Scratch website. See [Teachable Machine with Scratch](/Teachable%20Machine%20with%20Scratch.pdf) activity guide for more details on how to use a different Scratch version to achieve it.
+Students can also integrate their Teachable Machine model into Scratch coding projects for interactive apps. However, this currently has limited support on the main Scratch website. See [Teachable Machine with Scratch](/AI_classroom_activities/TeachableMachinewithScratch.pdf) activity guide for more details on how to use a different Scratch version to achieve it.
 
 ## Image classification with Landing AI
 Landing AI is a more advanced platform for training custom visual AI models.
@@ -202,7 +202,7 @@ Landing AI is a more advanced platform for training custom visual AI models.
 ### Activity: Building an image classifier
 Follow the guide to take students through gathering images, labelling datasets, training models, and deploying models with Landing AI:
 
-[Landing AI Activity Guide](/Landing%20AI.pdf)
+[Landing AI Activity Guide](/AI_classroom_activities/LandingAI.pdf)
 
 **Key learning outcomes:**
 1. Data collection and labelling
@@ -227,7 +227,7 @@ Groups will be provided example user profiles to inspire ideas. Students will us
 > Within your team, use Google BARD and PlaygroundAI to create a personalized children's book for your assigned user profile. Apply creativity in directing the AI and designing an engaging storyline. Construct at least one full chapter structured in PowerPoint.
 
 For Playground AI instructions, see:
-[Playground AI Guide](/HowtousePlaygroundAI.pdf)
+[Playground AI Guide](/AI_classroom_activities/HowtousePlaygroundAI.pdf)
 
 **Key learning outcomes:**
 - Generative AI capabilities
