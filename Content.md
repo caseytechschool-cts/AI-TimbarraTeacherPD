@@ -226,6 +226,22 @@ BARD was released earlier this year by Google. This is Google's response to Chat
 ### PlaygroundAI
 PlaygroundAI is an image generation and editing tool which is based on Stable duffusion model. You need an account to access the platform. You can generate 500 images each day for free.
 
+Please check out this [PDF file](/HowtousePlaygroundAI.pdf) on how to use PlaygroundAI platform.
+
+### Children book activity
+You can use the following prompt to your students:
+
+>Within your team, use the introduced AI tools (e.g., Google BARD and PlaygroundAI) to conduct research and create a children's book. Employ AI as your assistant and engage in extensive discussions to determine the storyline, diverse characters, and other details. Always remember, it is your creativity that ultimately gives the book its unique identity.
+
+- Students will work in a small group. Their first task will be finding the audience for their book. Ask students to choose one user profile (user profile.docx) and brainstrom some initial ideas around the profile.
+- Provide them butcher paper to jot down the storyline, leading characters, writing style and assest (e.g., images) list.
+- Your students now start using AI tools to generate the relevant resources. Emphasis them to create a chunk of the storeline at a time and iteratively make improvement.
+- Your students can use Google Slide or Microsoft PowerPoint to structure the content of the book.
+- Ask them to create at least one chapter of minimum 8 slides.
+- At the end, you can run a mini expo to share their creation.
+
+
+
 # References
 
 - What is Artificial Intellience? Click [here](https://www.ibm.com/topics/artificial-intelligence) to access. (Accessed: 23rd Nov 2023)
