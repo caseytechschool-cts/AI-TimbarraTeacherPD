@@ -162,6 +162,36 @@ There are proprietary and open-sourced LLMs. Here is a list of popular one.
 3. Claude AI (https://claude.ai/chat/)
 4. LLAMA2 (https://ai.meta.com/llama/)
 
+# AI Classroom Activities
+There are a number of activities you can run in your classroom by either using traditional AI or generative AI. 
+
+Here I am going to walk through two traditional AI activities and one generative AI activity.
+
+## Image classification using Teachable Machine
+
+- Website link: [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- Account needed: No
+- Free or subscription: Completely free
+- Internet needed: Yes
+- Do I need to download anything: No, browser-based
+
+**Teachable Machine** is a Google initiative to introduce AI models easily into a classroom setup. Currently, the platform offers three types of models: image classification, sound classification and pose estimation.
+
+### How to Teach a Machine to Recognize Happy and Sad Faces
+This [PDF file](/Teachable%20Machine.pdf) contains step-by-step guide on how to use Teachable Machine platform to create a two class models.
+
+Here are some learning outcomes for your students:
+
+1. Quality data collection
+2. Model training and evaluation
+
+### How to use the model in Scratch platform
+As of now, the original Scratch website (https://scratch.mit.edu/) does not suppport Teachable Machine as an extension. However, there are some other versions of Scratch that you can use to use Teachable Machine. 
+
+This [PDF file](/Teachable%20Machine%20with%20Scratch.pdf) shows the detailed steps to achieve it.
+
+
+
 # References
 
 - What is Artificial Intellience? Click [here](https://www.ibm.com/topics/artificial-intelligence) to access. (Accessed: 23rd Nov 2023)
