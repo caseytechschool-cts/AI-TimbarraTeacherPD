@@ -165,7 +165,7 @@ There are proprietary and open-sourced LLMs. Here is a list of popular one.
 # AI Classroom Activities
 There are a number of activities you can run in your classroom by either using traditional AI or generative AI. 
 
-Here I am going to walk through two traditional AI activities and one generative AI activity.
+Here I am going to walk through two traditional AI activities and one generative AI activity. Form small groups to run these activities.
 
 ## Image classification using Teachable Machine
 
@@ -202,6 +202,29 @@ Another traditional AI tool you can use in your classroom is Landing AI (https:/
 
 ### Using Landing AI to create an image classifier
 Follow this [PDF file](/Landing%20AI.pdf) to train, predict and deploy your model on the cloud.
+
+Here are some learning outcomes for your students:
+
+1. Quality data collection
+2. Data labelling
+3. Model training and evaluation
+4. Model upload
+
+## AI children book creation: intro to Generative AI
+This activity is designed to give your students a grip on the Generative AI (GenAI) which is the buzz word at this stage. The concept for this activty is simple: students in a small group will generate a children book by using different Generative AI tools. To make their learning concrete, you can provide them user profiles to choose from. This way, your students have some ground to start working on.
+
+To keep it simple, you can use an AI text generator and an AI image generator to create all the content. After inspecting the content, students can copy them into a PowerPoint slide or other media. 
+
+Here are the following tools you can use to achieve it.
+
+- Text generator: [Google BARD](https://bard.google.com/chat)
+- Image generator: [Playground AI](https://playgroundai.com/)
+
+### Google BARD
+BARD was released earlier this year by Google. This is Google's response to ChatGPT. BARD is **free**, you need a Gmail account to access the platform.
+
+### PlaygroundAI
+PlaygroundAI is an image generation and editing tool which is based on Stable duffusion model. You need an account to access the platform. You can generate 500 images each day for free.
 
 # References
 
