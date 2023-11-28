@@ -5,10 +5,11 @@ This comprehensive guide explores how to effectively integrate AI education into
 # Guide for super busy teachers
 Check out the [AI Classroom Activities](./Content.md#ai-classroom-activities) section.
 
+Here are all the other documents you need:
 - [Teachable Machine Activity Guide](./AI_classroom_activities/TeachableMachine.pdf)
 - [Teachable Machine with Scratch Platform](./AI_classroom_activities/TeachableMachinewithScratch.pdf)
 - [Landing AI Activity Guide](./AI_classroom_activities/LandingAI.pdf)
--[Introduction to PlaygroundAI](./AI_classroom_activities/HowtousePlaygroundAI.pdf)
+- [Introduction to PlaygroundAI](./AI_classroom_activities/HowtousePlaygroundAI.pdf)
 
 # Guide for others
 Open the `Content.md` file. It has a comprehensive introduction of modern AI. There are several sections in this document. Each section is independent. If you only focus on student activities, check out the `AI Classroom Activities` section.
