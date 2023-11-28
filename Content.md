@@ -218,7 +218,9 @@ There are proprietary and open-sourced LLMs. Here is a list of popular one:
 4. LLAMA2 (https://ai.meta.com/llama/)
 
 # AI Classroom Activities
-There are a number of activities you can implement in your classroom using both traditional AI as well as generative AI. This section will walk through two traditional AI activities and one generative AI activity. Form small groups of students to run these activities.
+There are a number of activities you can implement in your classroom using both traditional AI as well as generative AI. This section will walk through two traditional AI activities and one generative AI activity. There is a bonus activity at the end of this section focusing on the ethical and social impact of AI.
+
+Form small groups of students to run these activities. Recommanded group size is two to four students.
 
 ## Image classification using Teachable Machine
 Teachable Machine is a free, easy-to-use web-based tool from Google for building basic image classification models without needing to code.

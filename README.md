@@ -32,3 +32,4 @@ Open the `Content.md` file. It has a comprehensive introduction of modern AI. Th
 - [LeNet 1 by Yann leCun](https://www.youtube.com/watch?v=FwFduRA_L6Q): the first convolutional network that could recognize handwritten digits with good speed and accuracy.
 - [AI video generator](https://runwayml.com/): You can use RunwayML to generate AI videos. It has functionality to create other things.
 - [AI image generator](https://www.midjourney.com/): Midjourney is a Discord Bot to generate AI images.
+- [Generative voice AI](https://elevenlabs.io/): Clone your voice or create synthetic voices in minutes and instantly convert text to speech in any language.
