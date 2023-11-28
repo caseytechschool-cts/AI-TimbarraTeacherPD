@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-preferred-citation: type: article
-message: "If you use this conent, please cite it as below."
-authors:
-- family-names: "Abdullah"
-  given-names: "S M"
-title: "Artificial Intelligence"
-Institute: Casey Tech School
-version: 1.0.0
-date-released: 28-11-2023
-url: "https://github.com/caseytechschool-cts/AI-TimbarraTeacherPD"
+preferred-citation: 
+  type: article
+  message: "If you use this conent, please cite it as below."
+  authors:
+  - family-names: "Abdullah"
+    given-names: "S M"
+  title: "Artificial Intelligence"
+  Institute: Casey Tech School
+  version: 1.0.0
+  date-released: 28-11-2023
+  url: "https://github.com/caseytechschool-cts/AI-TimbarraTeacherPD"
