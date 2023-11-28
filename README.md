@@ -13,3 +13,6 @@ Open the `Content.md` file. It has a comprehensive introduction of modern AI. Th
 
 > [!NOTE]
 > The `AI_classroom_activities` folder contains several PDF files. You can find a PDF version of the `Content.md` file over there.
+
+>[!IMPORTANT]
+> Appreciation is welcomed. If you find this repository useful please cite it by clicking on the `Cite this repository` dropdowns.
