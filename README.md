@@ -2,7 +2,15 @@
 
 This comprehensive guide explores how to effectively integrate AI education into high school classrooms. It provides background on key AI concepts to empower teachers, walking through critical topics like machine learning foundations, neural networks, and large language models. The guide also includes detailed activity instructions leveraging accessible tools for hands-on AI projects spanning computer vision, generative writing, and ethical impact discussions. Whether you're looking to offer a dedicated AI course or inject AI learning across subjects, this content equips teachers with the knowledge and activities to bring AI literacy to their students.
 
-# How to use the content
+# Guide for super busy teachers
+Check out the [AI Classroom Activities](./Content.md#ai-classroom-activities) section.
+
+- [Teachable Machine Activity Guide](./AI_classroom_activities/TeachableMachine.pdf)
+- [Teachable Machine with Scratch Platform](./AI_classroom_activities/TeachableMachinewithScratch.pdf)
+- [Landing AI Activity Guide](./AI_classroom_activities/LandingAI.pdf)
+-[Introduction to PlaygroundAI](./AI_classroom_activities/HowtousePlaygroundAI.pdf)
+
+# Guide for others
 Open the `Content.md` file. It has a comprehensive introduction of modern AI. There are several sections in this document. Each section is independent. If you only focus on student activities, check out the `AI Classroom Activities` section.
 
 > [!TIP]
