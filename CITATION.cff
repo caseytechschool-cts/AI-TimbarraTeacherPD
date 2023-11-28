@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-preferred-citation: generic
+preferred-citation: "generic"
 message: "If you use this conent, please cite it as below."
 authors:
 - family-names: "Abdullah"
