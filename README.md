@@ -25,3 +25,10 @@ Open the `Content.md` file. It has a comprehensive introduction of modern AI. Th
 
 >[!IMPORTANT]
 > Appreciation is welcomed. If you find this repository useful please cite it by clicking on the `Cite this repository` dropdowns.
+
+# Some unmentioned useful contents
+- [Responsible AI](https://www.atse.org.au/research-and-policy/publications/publication/responsible-ai/) by Australian Academy of Technological Sciences and Engineering 
+- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g): a fantastic high level introduction of large language model by Andrej Karpathy from OpenAI
+- [LeNet 1 by Yann leCun](https://www.youtube.com/watch?v=FwFduRA_L6Q): the first convolutional network that could recognize handwritten digits with good speed and accuracy.
+- [AI video generator](https://runwayml.com/): You can use RunwayML to generate AI videos. It has functionality to create other things.
+- [AI image generator](https://www.midjourney.com/): Midjourney is a Discord Bot to generate AI images.
