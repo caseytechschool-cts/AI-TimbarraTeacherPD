@@ -10,6 +10,7 @@ Here are all the other documents you need:
 - [Teachable Machine with Scratch Platform](./AI_classroom_activities/TeachableMachinewithScratch.pdf)
 - [Landing AI Activity Guide](./AI_classroom_activities/LandingAI.pdf)
 - [Introduction to PlaygroundAI](./AI_classroom_activities/HowtousePlaygroundAI.pdf)
+- [User profiles](./user%20profile.docx)
 
 # Guide for others
 Open the `Content.md` file. It has a comprehensive introduction of modern AI. There are several sections in this document. Each section is independent.
