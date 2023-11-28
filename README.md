@@ -12,7 +12,7 @@ Here are all the other documents you need:
 - [Introduction to PlaygroundAI](./AI_classroom_activities/HowtousePlaygroundAI.pdf)
 
 # Guide for others
-Open the `Content.md` file. It has a comprehensive introduction of modern AI. There are several sections in this document. Each section is independent. If you only focus on student activities, check out the `AI Classroom Activities` section.
+Open the `Content.md` file. It has a comprehensive introduction of modern AI. There are several sections in this document. Each section is independent.
 
 > [!TIP]
 > To download the entire project, click on the green `Code` button and choose `Download ZIP`. Unzip the downloaded folder on your computer and now you have an offline version of this content. 
